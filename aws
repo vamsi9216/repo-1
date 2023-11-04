@@ -1,13 +1,4 @@
-To change user of a file : chown username filename.
-To change groupof a file : chgrp groupname filename.
-To change user and group at a time for a file: "chown username:groupname filename"
-To change user and group at a time for a multiple files:  "chown username:groupname *"
-To change user and group of a folder: chown username foldername.
-To change user and group of a folder along with files: chown -R username:groupname foldername.
-To change user and group of a files which are present in folder: chown user:group foldername/*
-
-1
-2
+DEVARA PART 1 on APRIL 5
 3
 sdxfcgvhbjnksxdcfvgbhndxsedrcftvgbydcrfvtgby
 4
