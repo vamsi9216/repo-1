@@ -6,13 +6,19 @@ To change user and group of a folder: chown username foldername.
 To change user and group of a folder along with files: chown -R username:groupname foldername.
 To change user and group of a files which are present in folder: chown user:group foldername/*
 
-Q) why should wwe need to change owners?
+1
+2
+3
+
+4
+
+5
+6
 When we work on jenkins in realtime we get error like permission denied, for that we will change ownwers for a file.
 
 To change permissions of a file: chmod 777 filename
 To change permisssions of multiplefiles : chmod 777 f1 f2 f3
 To change permissions of all files : chmod 777 *
-To change permissions of a folder: chmod 777 folder
 To chnage permissions of a folder along with files:chmod -R 777 foldername
 To change permissions of files inside folder  :chmod 777/folder1 *
 
